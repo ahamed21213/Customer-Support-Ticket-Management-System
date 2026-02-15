@@ -129,6 +129,13 @@ This enables **instant identification of problem areas**.
 - Scalable model for future enhancements
 
 ---
+## Images
+
+
+<img width="997" height="549" alt="Screenshot 2026-02-15 154647" src="https://github.com/user-attachments/assets/ff1b39f0-4c8e-4b87-bc86-00290a8f9de4" />
+
+<img width="968" height="550" alt="Screenshot 2026-02-15 154701" src="https://github.com/user-attachments/assets/53eea393-20ab-40c7-876f-58e53108c7c7" />
+
 
 ## 🧠 Insights & Outcomes
 
